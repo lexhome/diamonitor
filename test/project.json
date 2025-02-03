@@ -1,0 +1,17 @@
+{
+  "name": "diamonitor",
+  "about": "Светлячок",
+  "version": "0.3.11",
+  "notes": "исправление ошибок в попытках соединения с сервером NS",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/bin/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
