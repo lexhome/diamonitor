@@ -8,10 +8,11 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/firmwaretest.bin",
+          "path": "https://raw.githubusercontent.com/lexhome/diamonitor/test/bin/firmwaretest.bin",
           "offset": 0
         }
       ]
     }
   ]
 }
+
