@@ -1,8 +1,8 @@
 {
   "name": "diamonitor",
   "about": "Светлячок",
-  "version": "0.3.13-5-test",
-  "notes": "исправление ошибок в попытках соединения с сервером NS",
+  "version": "0.3.14-1-test",
+  "notes": "",
   "builds": [
     {
       "chipFamily": "ESP8266",
