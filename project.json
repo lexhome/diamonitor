@@ -1,8 +1,8 @@
 {
   "name": "diamonitor",
   "about": "Светлячок",
-  "version": "0.3.13",
-  "notes": "исправление ошибок в попытках соединения с сервером NS",
+  "version": "0.3.14",
+  "notes": "Добавлены COB IOB",
   "builds": [
     {
       "chipFamily": "ESP8266",
