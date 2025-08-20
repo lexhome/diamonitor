@@ -1,8 +1,6 @@
 {
   "name": "diamonitor",
-  "about": "Светлячок",
-//  "version": "1.0.8.15.7-test",
-  
+  "about": "Светлячок",    
   "notes": "",
   "builds": [
     {
