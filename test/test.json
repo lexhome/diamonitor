@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin1/test.bin",
+
           "offset": 0
         }
       ]
