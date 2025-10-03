@@ -1,16 +1,16 @@
 {
   "name": "diamonitor",
   "about": "diamonitor",
-  "version": "1.0.8.17.9-test",   
+  "version": "0.3",
   "notes": "",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
-        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32_s3/bootloader.bin", "offset": 4096 },
-        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32_s3/partitions.bin", "offset": 32768 },
-        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32_s3/boot_app0.bin", "offset": 57344 },
-        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32_s3/test.bin", "offset": 65536 }
+        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32s3/bootloader.bin", "offset": 4096 },
+        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32s3/partitions.bin", "offset": 32768 },
+        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32s3/boot_app0.bin", "offset": 57344 },
+        { "path": "https://raw.githubusercontent.com/lexhome/diamonitor/main/test/bin/esp32s3/test.bin", "offset": 65536 }
       ]
     }
   ]
